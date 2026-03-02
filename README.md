@@ -1,0 +1,3 @@
+# GlowShift Fruits Privacy Policy
+
+This repository hosts the public privacy policy page for GlowShift Fruits via GitHub Pages.
